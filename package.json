@@ -1,0 +1,14 @@
+{
+  "name": "string-to-guid",
+  "version": "1.0.0",
+  "description": "The package has only one default exported method. Method receives any string and returns a GUID.",
+  "main": "StringToGuid.js",
+  "keywords": [],
+  "author": "Zeeshan Ulhaq",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.17",
+    "crypto": "^1.0.1",
+    "hex-to-uuid": "^1.1.1"
+  }
+}
